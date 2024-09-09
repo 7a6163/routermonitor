@@ -1,0 +1,8 @@
+.vscode
+
+*.o
+*.bin
+.pio
+
+test/
+ui-design/
